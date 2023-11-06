@@ -4,8 +4,8 @@ import { urlFor } from "@/app/lib/sanityImageUrl";
 import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
 import { PortableText } from "@portabletext/react";
-import AOS from "aos";
-import "aos/dist/aos.css";
+// import AOS from "aos";
+// import "aos/dist/aos.css";
 
 import "animate.css/animate.min.css";
 import Divider from "@mui/material/Divider";

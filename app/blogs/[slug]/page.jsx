@@ -7,7 +7,7 @@ import { urlFor } from "../../lib/sanityImageUrl";
 import Grid from "@mui/material/Grid";
 import { PortableText } from "@portabletext/react";
 
-import "aos/dist/aos.css";
+// import "aos/dist/aos.css";
 
 import "animate.css/animate.min.css";
 import Divider from "@mui/material/Divider";

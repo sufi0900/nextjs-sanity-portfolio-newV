@@ -7,7 +7,7 @@ import { useParams } from "next/navigation";
 import ListItem from "@mui/material/ListItem";
 import ListItemAvatar from "@mui/material/ListItemAvatar";
 import Avatar from "@mui/material/Avatar";
-import "aos/dist/aos.css";
+// import "aos/dist/aos.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Grid from "@mui/material/Grid";
 import {
@@ -16,7 +16,7 @@ import {
 } from "react-circular-progressbar";
 import { easeQuadInOut } from "d3-ease";
 import AnimatedProgressProvider from "./AnimatedProgressProvider";
-import "aos/dist/aos.css";
+// import "aos/dist/aos.css";
 
 import "animate.css/animate.min.css";
 import { Typography } from "@mui/material";

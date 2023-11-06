@@ -4,7 +4,7 @@ import Grid from "@mui/material/Grid";
 import AOS from "aos";
 
 import "animate.css";
-import "aos/dist/aos.css";
+// import "aos/dist/aos.css";
 const SvgHomePage = () => {
   const icon = {
     hidden: {
