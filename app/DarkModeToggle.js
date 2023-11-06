@@ -14,7 +14,7 @@ const DarkModeToggle = () => {
     if (darkMode.value) {
       darkMode.toggle(); // If in dark mode, switch to light mode
     }
-  }, []);
+  }, [darkMode]);
 
   return (
     <DynamicSwitch
